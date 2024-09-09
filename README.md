@@ -5,8 +5,8 @@ Gestor de Contraseñas local
 Esta herramienta la desarrollé como una opción personal para guardar y gestionar contraseñas de forma sencilla y sin tantas opciones confusas.
 
 ## Requisitos 
-Microsoft Access
-Microsoft ACE OLEDB 12.0 provider for Access
+* Microsoft Access
+* Microsoft ACE OLEDB 12.0 provider for Access
 https://www.microsoft.com/es-es/download/details.aspx?id=54920
 
 
